@@ -34,7 +34,8 @@ E muitas outras plataformas.
 
 1. exemplo1
 2. exemplo2
-3. exemplo3
+   1. exemplo2.1
+4. exemplo3
 
 ### Links
 ![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/76cb9e2f-e440-47ff-a6c2-c47ad4a45943)
