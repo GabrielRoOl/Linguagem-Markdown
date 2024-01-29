@@ -47,7 +47,7 @@ E muitas outras plataformas.
 ### Links
 ![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/76cb9e2f-e440-47ff-a6c2-c47ad4a45943)
 
-[Meu GitHub](https://github.com/GabrielRoOl/Linguagem-Markdown/edit/main/README.md)
+[Acesse meu GitHub](https://github.com/GabrielRoOl/Linguagem-Markdown/edit/main/README.md)
 
 ### Imagens
 ![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/56ac9fb1-04c2-4f32-89dd-0530c1b35343)
