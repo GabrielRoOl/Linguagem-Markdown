@@ -24,19 +24,25 @@ E muitas outras plataformas.
 
 **Negrito**, *Itálico* e ~~Palavra riscada~~.
 
-### Lista Não Ordenada e Lista Ordenada
+### Lista Não Ordenada, Lista Ordenada, Lista de Tarefas
 ![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/e6018720-3a84-4657-9536-69b443e019f0)
 ![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/14018d79-5018-4b4a-8054-27d94f807032)
+![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/defd0d01-ffbf-491a-978f-16d2cbbbbf0a)
 
-- exemplo1
+
+- exemplo1    
 - exemplo2
   - exemplo2.1
 - exemplo3
 
-1. exemplo1
-2. exemplo2
-   1. exemplo2.1
-4. exemplo3
+1. teste1
+2. teste2
+   1. teste2.1
+4. teste3
+
+- [x] tarefa1
+- [ ] tarefa2
+- [ ] tarefa3
 
 ### Links
 ![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/76cb9e2f-e440-47ff-a6c2-c47ad4a45943)
