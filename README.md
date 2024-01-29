@@ -74,3 +74,8 @@ int main() {
 |cabeçalho 1|cabeçalho 2|
 |-----------|-----------|
 |Dado 1    |Dado 2|
+
+
+![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/d946ab05-e03e-4726-be8b-55c4128e2c50)
+
+[Lista de Emojis](https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file#person) da Ikatyang, muito util e muito bem organizado.
