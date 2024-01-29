@@ -64,3 +64,6 @@ int main() {
 > Exemplo de cítação.
 ### Tabelas
 ![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/cb4b7d41-61aa-4440-8a57-8db98885030e)
+|cabeçalho 1|cabeçalho 2|
+|-----------|-----------|
+|Dado 1    |Dado 2|
