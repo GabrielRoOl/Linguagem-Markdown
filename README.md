@@ -12,7 +12,7 @@ Muitas plataformas e uma grande variedade de ambientes usam essa linguagem para 
 E muitas outras plataformas.
 ### Segue Abaixo uma lista de comandos
 
-### Títulos e Subtítulo
+### Títulos Nível 1, 2 e 3
 ![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/615c8657-4380-437f-bc02-306220b0a552)
 ### Negrito, Itálico, Palavra Riscada
 ![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/85e4e457-5a02-4ce2-915f-b2128a3d87a3)
