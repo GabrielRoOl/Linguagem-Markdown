@@ -48,7 +48,19 @@ E muitas outras plataformas.
 
 ### Trechos de códigos
 ![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/77f910c3-78a7-4ee3-9f19-396626403206)
+
+´#include <stdio.h>
+
+int main() {
+
+    printf("Olá, Mundo!\n");
+    
+    return 0;
+}
+´
 ### Cítações
 ![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/d6928764-7e43-497f-8300-af1c4436681f)
+
+> Exemplo de cítação.
 ### Tabelas
 ![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/cb4b7d41-61aa-4440-8a57-8db98885030e)
