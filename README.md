@@ -44,7 +44,7 @@ E muitas outras plataformas.
 ### Imagens
 ![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/56ac9fb1-04c2-4f32-89dd-0530c1b35343)
 
-![GabrielRoOl](![GabrielRoOl](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/f43f4be9-60ce-47e4-868d-3c1877c4700b)
+![GabrielRoOl](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/f43f4be9-60ce-47e4-868d-3c1877c4700b)
 
 ### Trechos de códigos
 ![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/77f910c3-78a7-4ee3-9f19-396626403206)
