@@ -1,7 +1,7 @@
 # Linguagem Markdown
 ## Uma Breve Introdução
 Markdown é uma linguagem de marcação leve projetada para ser fácil de se usar, ler e escrever. Foi criada por John Gruber e Aaron Swartz em 2004, com o objetivo de formatação de texto de maneira rápida e simples.
-A ideia por trás do Markdown é que o texto formatado usando esta linguagem seja fácil de ler mesmo sem ser processado. Por exemplo, ao ler o código Markdown puro, você pode entender a estrutura do texto sem precisar da renderização HTML.
+Por exemplo, ao ler o código Markdown puro, você pode entender a estrutura do texto sem precisar da renderização HTML.
 ## Ambientes e Plataformas
 Muitas plataformas e uma grande variedade de ambientes usam essa linguagem para melhorar o visual de seus perfis.
 ### Exemplos
@@ -10,24 +10,56 @@ Muitas plataformas e uma grande variedade de ambientes usam essa linguagem para 
 3. Vscode.
 4. Ghost
 E muitas outras plataformas.
+
+***
+
 ### Segue Abaixo uma lista de comandos
 
-### Títulos Nível 1, 2 e 3
-![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/615c8657-4380-437f-bc02-306220b0a552)
-### Nível 3
-## Nível 2
-# Nível 1
+### Títulos Nível 1 a 6
 
-### Negrito, Itálico, Palavra Riscada
-![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/85e4e457-5a02-4ce2-915f-b2128a3d87a3)
-![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/ea129fcd-fb58-4e28-9d44-766280244cf9)
+```
+O # é usado para definir o Nível do título:
+# Nível 1
+## Nível 2
+### Nível 3
+#### Nível 4
+##### Nível 5
+###### Nível 6
+ ```
+
+# Título Nível 1
+## Título Nível 2
+### Título Nível 3
+#### Título Nível 4
+##### Título Nível 5
+###### Título Nível 6
+
+***
+
+### Negrito, Itálico e Palavra Riscada
+
+```
+Para deixar a frase ou palavra em negrito, itálico ou riscado basta coloca-lá entre:
+
+Dois asteristicos (**) para deixar em **negrito**.
+Um asteristico (*) ou underline (_) para deixar em _itálico_, *itálico*.
+Dois tils (~~) para deixar ~~riscado~~.
+```
 
 **Negrito**, *Itálico* e ~~Palavra riscada~~.
 
+---
+
 ### Lista Não Ordenada, Lista Ordenada, Lista de Tarefas
-![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/e6018720-3a84-4657-9536-69b443e019f0)
-![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/14018d79-5018-4b4a-8054-27d94f807032)
-![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/defd0d01-ffbf-491a-978f-16d2cbbbbf0a)
+
+```
+Não ordenada            Ordenada             Lista de Tarefas
+
+- exemplo1              1. teste1            - [x] tarefa1
+- exemplo2              2. teste2            - [ ] tarefa2
+  - exemplo2.1            1. teste2.1        - [ ] tarefa3
+- exemplo3              4. teste3            - [ ] tarefa4
+```
 
 
 - exemplo1    
@@ -44,10 +76,16 @@ E muitas outras plataformas.
 - [ ] tarefa2
 - [ ] tarefa3
 
-### Links
-![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/76cb9e2f-e440-47ff-a6c2-c47ad4a45943)
+---
 
-[Acesse meu GitHub](https://github.com/GabrielRoOl/Linguagem-Markdown/edit/main/README.md)
+### Links
+
+```
+[Acesse meu GitHub](https://github.com/GabrielRoOl)
+```
+[Acesse meu GitHub](https://github.com/GabrielRoOl)
+
+---
 
 ### Imagens
 ![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/56ac9fb1-04c2-4f32-89dd-0530c1b35343)
