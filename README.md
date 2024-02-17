@@ -53,17 +53,21 @@ Dois tils (~~) para deixar ~~riscado~~.
 ### Lista Não Ordenada, Lista Ordenada, Lista de Tarefas
 
 ```
+Para utilizar a lista não ordenada basta usar traço (-) ou asteristico (*)
+A lista ordenada usa números, inicindo assim: "1. lista" e teclar enter para continuar
+A lista de tarefas usa um traço (-) em seguida de colchegetes([]) com um espaço dentro
+
 Não ordenada            Ordenada             Lista de Tarefas
 
 - exemplo1              1. teste1            - [x] tarefa1
-- exemplo2              2. teste2            - [ ] tarefa2
+* exemplo2              2. teste2            - [ ] tarefa2
   - exemplo2.1            1. teste2.1        - [ ] tarefa3
 - exemplo3              4. teste3            - [ ] tarefa4
 ```
 
 
 - exemplo1    
-- exemplo2
+* exemplo2
   - exemplo2.1
 - exemplo3
 
@@ -81,6 +85,8 @@ Não ordenada            Ordenada             Lista de Tarefas
 ### Links
 
 ```
+Nome que quer dar para o link entre colchetes seguido do link entre parenteses:
+
 [Acesse meu GitHub](https://github.com/GabrielRoOl)
 ```
 [Acesse meu GitHub](https://github.com/GabrielRoOl)
@@ -88,13 +94,23 @@ Não ordenada            Ordenada             Lista de Tarefas
 ---
 
 ### Imagens
-![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/56ac9fb1-04c2-4f32-89dd-0530c1b35343)
+```
+Basta copiar a imagem e colar onde deseja:
+
+![GabrielRoOl](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/f43f4be9-60ce-47e4-868d-3c1877c4700b)
+```
 
 ![GabrielRoOl](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/f43f4be9-60ce-47e4-868d-3c1877c4700b)
 
+---
+
 ### Trechos de códigos
-![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/77f910c3-78a7-4ee3-9f19-396626403206)
-Usando 3 crases
+
+```
+Apenas use três pares de crase e o conteúdo fica entre eles:
+
+```Teste```
+```
 
 ```
 #include <stdio.h>
@@ -103,15 +119,43 @@ int main() {
     return 0;
 }
 ```
+
+---
+
 ### Cítações
-![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/d6928764-7e43-497f-8300-af1c4436681f)
+
+```
+Basta adicionar um maior que (>) a cítação:
+
+> Exemplo de cítação
+```
 
 > Exemplo de cítação.
+> 
+> Continuação
+> 
+> ...
+
+---
+
 ### Tabelas
-![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/cb4b7d41-61aa-4440-8a57-8db98885030e)
+
+```
+Monta-se uma estrutura em formato de tabela usando barras (|) e o conteúdo entre elas,
+abaixo, barras e traços (-) dentro delas e por fim o dado, também entre barras:
+Não é necessário se preocupar com simetria.
+
+|cabeçalho 1|cabeçalho 2|
+|-------|--------|
+|Dado 1    |Dado 2|
+
+```
+
 |cabeçalho 1|cabeçalho 2|
 |-----------|-----------|
 |Dado 1    |Dado 2|
+
+---
 
 
 ![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/d946ab05-e03e-4726-be8b-55c4128e2c50)
