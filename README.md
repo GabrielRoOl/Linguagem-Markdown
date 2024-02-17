@@ -55,7 +55,7 @@ Dois tils (~~) para deixar ~~riscado~~.
 ```
 Para utilizar a lista não ordenada basta usar traço (-) ou asteristico (*)
 A lista ordenada usa números, inicindo assim: "1. lista" e teclar enter para continuar
-A lista de tarefas usa um traço (-) em seguida de colchegetes([]) com um espaço dentro
+A lista de tarefas usa um traço (-) em seguida de colchegetes ([]) com um espaço dentro:
 
 Não ordenada            Ordenada             Lista de Tarefas
 
@@ -85,7 +85,7 @@ Não ordenada            Ordenada             Lista de Tarefas
 ### Links
 
 ```
-Nome que quer dar para o link entre colchetes seguido do link entre parenteses:
+Nome que quer dar para o link entre colchetes ([]) seguido do link entre parenteses ():
 
 [Acesse meu GitHub](https://github.com/GabrielRoOl)
 ```
@@ -156,7 +156,6 @@ Não é necessário se preocupar com simetria.
 |Dado 1    |Dado 2|
 
 ---
-
 
 ![image](https://github.com/GabrielRoOl/Linguagem-Markdown/assets/144238400/d946ab05-e03e-4726-be8b-55c4128e2c50)
 
